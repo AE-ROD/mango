@@ -23,7 +23,7 @@ def validnumero2():
             continue
         break
     return n
-print("a")
+print("ad")
 
 
 
